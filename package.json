@@ -1,0 +1,21 @@
+{
+  "name": "LMS Bot",
+  "version": "1.0.0",
+  "description": "A RPG bot for discord",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "discordjs",
+    "discord",
+    "rpg",
+    "bot",
+    "node.js",
+    "lms"
+  ],
+  "dependencies": {
+    "discord.js": "hydrabolt/discord.js#indev"
+},
+  "author": "monis0395/monis"
+}

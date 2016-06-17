@@ -1,0 +1,23 @@
+{
+    "171656085738881024": {
+        "name": "rat",
+        "level": 1,
+        "stats": {
+            "hp": 40,
+            "maxhp": 40,
+            "STR": 3,
+            "VIT": 15,
+            "AGI": 20,
+            "INT": 1,
+            "WIS": 1,
+            "luck": 1,
+            "attack": 4,
+            "defense": 0
+        },
+        "xp": 10,
+        "copper": 2,
+        "drops": [
+            "2"
+        ]
+    }
+}

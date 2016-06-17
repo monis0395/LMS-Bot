@@ -1,0 +1,35 @@
+```diff
+======== [Royal Road Commands] ========
+
++ !JOIN [RACE NAME] [YOUR NAME]
+-  Join Royal Road
++ !RACES
+-  List Races
++ !RACE [RACE NAME]
+-  Gives more Info on a races
++ !STATS
+-  Shows Stat Window
++ !INVENTORY
+-  Shows Inventory Window
++ !INSPECT [ITEM NAME]
+-  To inspect an item
++ !USE [ITEM NAME]
+-  To use an Item
++ !ITEMS
+-  Gives list of Items available for purchase
++ !BUY [ITEM NAME]
+-  Buy an item
++ !MONSTERS
+-  List Monsters
++ !FIGHT [MONSTER NAME]
+-  Fight Monster
++ !COMABT
+-  List all combat commands
++ !COMBO ATTACK + ATTACK + ATTACK + ATTACK + ATTACK
+-  Combo attack
+-  Attacks: Slash, Slice, Stab, Penetrate. Others: Dash, Dodge, Block, Grasp
++ !Info
+-  Info on all commands
+
+=======================================
+```
